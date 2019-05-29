@@ -25,7 +25,7 @@ Website.Publishing.props
               Note: Override these property in .csproj or local Directory.Build.props file for specific publish targets.
               For local dev setup override in .user file
               IMPORTANT: Remember trailing slash! -->
-    <PublishRootDirectory>C:\Websites\habitat.localhost\Website</PublishRootDirectory>
+    <PublishRootDirectory>C:\Websites\habitat.dev.local\Website</PublishRootDirectory>
 
     <publishUrl>$(PublishRootDirectory)</publishUrl>
 
