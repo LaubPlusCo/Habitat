@@ -7,8 +7,8 @@
 #endif
 [assembly: AssemblyCompany("Sitecore")]
 [assembly: AssemblyProduct("Sitecore® Habitat")]
-[assembly: AssemblyCopyright("Copyright © Sitecore 2017")]
+[assembly: AssemblyCopyright("Copyright © Sitecore 2019")]
 [assembly: AssemblyTrademark("Sitecore® and Own the Experience® are registered U.S. trademarks.")]
 [assembly: AssemblyCulture("")]
 
-[assembly: AssemblyVersion("9.0.0.*")]
+[assembly: AssemblyVersion("9.1.0.*")]
